@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import styled from "@emotion/styled";
-import { withTheme } from "emotion-theming";
+import { withTheme } from "@emotion/react";
 
 import Button from "../button/Button";
 import Container from "../../layout/Container";

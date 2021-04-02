@@ -1,7 +1,7 @@
 /** @jsxRuntime classic */
 /** @jsx jsx */
-import { jsx } from "@emotion/core";
-import { useTheme } from "emotion-theming";
+import { jsx } from "@emotion/react";
+import { useTheme } from "@emotion/react";
 import PropTypes from "prop-types";
 
 // import styles from "./Paper.module.css";
