@@ -1,0 +1,17 @@
+.paper {
+  width: 600px;
+  height: 800px;
+  background-color: #f2eecb;
+  border-radius: 4px;
+
+  padding: 32px;
+}
+
+.frame {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  border: 1px solid var(--main-black-color);
+  height: 100%;
+}
